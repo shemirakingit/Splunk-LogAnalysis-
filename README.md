@@ -1,7 +1,4 @@
-# Splunk-LogAnalysis-
-Hands-on SIEM lab on GCP — Splunk deployment, log forwarding via Universal Forwarder, custom SPL searches, security dashboards, and automated brute-force detection alerting.
-# Splunk SIEM Lab — GCP Deployment
-
+# Splunk-LogAnalysis-GCP Deployment
 A hands-on SIEM lab built on Google Cloud Platform, focused on log ingestion, search processing, dashboarding, and automated threat detection using Splunk.
 
 ## Overview
